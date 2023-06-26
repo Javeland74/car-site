@@ -1,0 +1,23 @@
+{
+  "name": "car-site",
+  "version": "1.0.0",
+  "description": "car sales site with inventory in DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javeland74/car-site.git"
+  },
+  "keywords": [
+    "cars",
+    "sales"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javeland74/car-site/issues"
+  },
+  "homepage": "https://github.com/Javeland74/car-site#readme"
+}
